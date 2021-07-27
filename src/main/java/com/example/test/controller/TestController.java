@@ -9,6 +9,6 @@ public class TestController {
 
     @GetMapping
     public String getString() {
-        return "Hello World 2";
+        return "Hello World";
     }
 }
