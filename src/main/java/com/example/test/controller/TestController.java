@@ -8,7 +8,7 @@ public class TestController {
 
 
     @GetMapping
-    public String get() {
+    public String getString() {
         return "Hello World";
     }
 }
